@@ -34,6 +34,22 @@ You can draw the results of the tree using `plot/draw.py`. An example result:
 The nets extracted from [ICCAD'15 Contest Problem B](https://doi.org/10.1109/ICCAD.2015.7372672) can be downloaded via [Dropbox](https://www.dropbox.com/sh/gcq1dh84ko9rjpz/AAAVT0pLZG_FMiOi0ORiKddva?dl=0). 
 You can randomly assign slacks to pins by running the executable file `run/benchmark_constuct`.
 
+## **Citation**
+```
+
+@ARTICLE{10756606,
+  author={Wu, Hongxi and Li, Xingquan and Chen, Liang and Yu, Bei and Zhu, Wenxing},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
+  title={Delay-Driven Rectilinear Steiner Tree Construction}, 
+  year={2025},
+  volume={44},
+  number={5},
+  pages={1928-1941},
+  keywords={Delays;Steiner trees;Routing;Capacitance;Wire;Topology;Salt;Resistance;Design automation;Very large scale integration;Elmore delay;rectilinear Steiner tree;timing optimization},
+  doi={10.1109/TCAD.2024.3501932}
+}
+```
+
 
 ## Note
 
