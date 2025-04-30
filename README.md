@@ -36,7 +36,6 @@ You can randomly assign slacks to pins by running the executable file `run/bench
 
 ## **Citation**
 ```
-
 @ARTICLE{10756606,
   author={Wu, Hongxi and Li, Xingquan and Chen, Liang and Yu, Bei and Zhu, Wenxing},
   journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
@@ -45,7 +44,6 @@ You can randomly assign slacks to pins by running the executable file `run/bench
   volume={44},
   number={5},
   pages={1928-1941},
-  keywords={Delays;Steiner trees;Routing;Capacitance;Wire;Topology;Salt;Resistance;Design automation;Very large scale integration;Elmore delay;rectilinear Steiner tree;timing optimization},
   doi={10.1109/TCAD.2024.3501932}
 }
 ```
